@@ -1,3 +1,3 @@
 #### node-rookie
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![Nodejs](https://img.shields.io/badge/-Nodejs-%green?style=flat-square&logo=Nodejs&logoColor=green)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=yellow&color=yellow)
+![](https://img.shields.io/badge/Code-Node_JS-informational?style=flat&logo=node.js&logoColor=green&color=2bbc8a)
